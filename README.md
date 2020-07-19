@@ -7,6 +7,9 @@
 * https://www.slideshare.net/sue445
 * https://qiita.com/sue445
 
+## :chestnut: CI badges
+* https://sue445.github.io/my-ci-badges/
+
 ## :chestnut: Slides
 * [Best practices in web API client development](https://speakerdeck.com/sue445/best-practices-in-web-api-client-development-number-rubykaigi) at [RubyKaigi 2019](https://rubykaigi.org/2019/)
 
