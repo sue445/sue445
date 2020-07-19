@@ -2,6 +2,7 @@
 * https://sue445.hatenablog.com/
 * https://twitter.com/sue445
 * https://github.com/sue445
+* https://gitlab.com/sue445
 * https://speakerdeck.com/sue445
 * https://www.slideshare.net/sue445
 * https://qiita.com/sue445
