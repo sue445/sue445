@@ -20,4 +20,4 @@ and more :point_right: [slides.md](https://github.com/sue445/sue445/blob/master/
 ## :chestnut: Tweet activity [![Tweet pixels](https://pixe.la/v1/users/sue445/graphs/tweets?mode=badge)](https://pixe.la/v1/users/sue445/graphs/tweets.html)
 [![Tweet pixels](https://pixe.la/v1/users/sue445/graphs/tweets)](https://pixe.la/v1/users/sue445/graphs/tweets.html)
 
-see. https://github.com/sue445/tweet_pixels
+c.f. https://github.com/sue445/tweet_pixels
