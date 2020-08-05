@@ -20,7 +20,7 @@ and more :point_right: [slides.md](https://github.com/sue445/sue445/blob/master/
 ## :chestnut: GitHub Stats :octocat:
 [![sue445's github stats](https://github-readme-stats.vercel.app/api?username=sue445&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sue445&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sue445&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 c.f. https://github.com/anuraghazra/github-readme-stats
 
