@@ -24,7 +24,7 @@ and more :point_right: [slides.md](https://github.com/sue445/sue445/blob/master/
 
 c.f. https://github.com/anuraghazra/github-readme-stats
 
-## :chestnut: Tweet activity [![Tweet pixels](https://pixe.la/v1/users/sue445/graphs/tweets?mode=badge)](https://pixe.la/v1/users/sue445/graphs/tweets.html)
+## :chestnut: Tweet activity [![Tweet pixels](https://pixe.la/v1/users/sue445/graphs/tweets?mode=badge)](https://pixe.la/v1/users/sue445/graphs/tweets.html) :bird:
 [![Tweet pixels](https://pixe.la/v1/users/sue445/graphs/tweets)](https://pixe.la/v1/users/sue445/graphs/tweets.html)
 
 c.f. https://github.com/sue445/tweet_pixels
