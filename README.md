@@ -18,9 +18,11 @@ and more :point_right: [slides.md](https://github.com/sue445/sue445/blob/master/
 * https://sue445.github.io/my-ci-badges/
 
 ## :chestnut: GitHub Stats :octocat:
-[![sue445's github stats](https://raw.githubusercontent.com/sue445/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
+[![sue445's github stats](https://raw.githubusercontent.com/sue445/github-stats/master/generated/overview.svg)](https://github.com/sue445/github-stats)
 
-[![Top Langs](https://raw.githubusercontent.com/sue445/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
+[![Top Langs](https://raw.githubusercontent.com/sue445/github-stats/master/generated/languages.svg)](https://github.com/sue445/github-stats)
+
+c.f. https://github.com/jstrieb/github-stats
 
 [![Top Topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=sue445&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
