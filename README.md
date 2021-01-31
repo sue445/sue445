@@ -19,7 +19,6 @@ and more :point_right: [slides.md](https://github.com/sue445/sue445/blob/master/
 
 ## :chestnut: GitHub Stats :octocat:
 [![sue445's github stats](https://raw.githubusercontent.com/sue445/github-stats/master/generated/overview.svg)](https://github.com/sue445/github-stats)
-
 [![Top Langs](https://raw.githubusercontent.com/sue445/github-stats/master/generated/languages.svg)](https://github.com/sue445/github-stats)
 
 c.f. https://github.com/jstrieb/github-stats
