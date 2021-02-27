@@ -14,7 +14,7 @@
 
 and more :point_right: [slides.md](https://github.com/sue445/sue445/blob/master/slides.md)
 
-## :chestnut: CI badges
+## :chestnut: List of OSSs I actively maintain
 * https://sue445.github.io/my-ci-badges/
 
 ## :chestnut: GitHub Stats :octocat:
