@@ -8,6 +8,8 @@
 * https://qiita.com/sue445
 * https://rubygems.org/profiles/sue445
 * https://hub.docker.com/u/sue445/
+* https://www.credly.com/users/sue445/badges
+* https://www.credential.net/profile/678832/wallet
 
 ## :chestnut: Slides
 * [Best practices in web API client development](https://speakerdeck.com/sue445/best-practices-in-web-api-client-development-number-rubykaigi) at [RubyKaigi 2019](https://rubykaigi.org/2019/) :gem:
