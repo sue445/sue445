@@ -28,5 +28,3 @@ c.f. https://github.com/jstrieb/github-stats
 
 ## :chestnut: Tweet activity [![Tweet pixels](https://pixe.la/v1/users/sue445/graphs/tweets?mode=badge)](https://pixe.la/v1/users/sue445/graphs/tweets.html) :bird:
 [![Tweet pixels](https://pixe.la/v1/users/sue445/graphs/tweets)](https://pixe.la/v1/users/sue445/graphs/tweets.html)
-
-c.f. https://github.com/sue445/tweet_pixels
