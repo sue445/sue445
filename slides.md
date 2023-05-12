@@ -1,4 +1,5 @@
 ## 2023
+* 2023/05/12 [RubyKaigi 2023](https://rubykaigi.org/2023/) [Fix SQL N\+1 queries with RuboCop](https://speakerdeck.com/sue445/fix-sql-n-plus-one-queries-with-rubocop) [![hatebu](http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/sue445/fix-sql-n-plus-one-queries-with-rubocop)](http://b.hatena.ne.jp/entry/https://speakerdeck.com/sue445/fix-sql-n-plus-one-queries-with-rubocop)
 * 2023/03/17 [サブカル業界Developers 勉強会 Vol\.4](https://subculturedev.connpass.com/event/275395/) [sue445とOSSと社内ツール \#subcul\_dev \- Speaker Deck](https://speakerdeck.com/sue445/sue445-and-oss-and-in-house-tools) [![hatebu](http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/sue445/sue445-and-oss-and-in-house-tools)](http://b.hatena.ne.jp/entry/https://speakerdeck.com/sue445/sue445-and-oss-and-in-house-tools)
 
 ## 2021
