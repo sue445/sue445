@@ -14,6 +14,7 @@
 
 ## :chestnut: Slides
 * [Best practices in web API client development](https://speakerdeck.com/sue445/best-practices-in-web-api-client-development-number-rubykaigi) at [RubyKaigi 2019](https://rubykaigi.org/2019/) :gem:
+* [Fix SQL N\+1 queries with RuboCop](https://speakerdeck.com/sue445/fix-sql-n-plus-one-queries-with-rubocop) at [RubyKaigi 2023](https://rubykaigi.org/2013/) :gem:
 
 and more :point_right: [slides.md](https://github.com/sue445/sue445/blob/master/slides.md)
 
