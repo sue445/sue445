@@ -1,6 +1,7 @@
 ## :chestnut: Links
 * https://sue445.hatenablog.com/
-* https://twitter.com/sue445
+* https://x.com/sue445
+* https://bsky.app/profile/sue445.bsky.social
 * https://github.com/sue445
 * https://gitlab.com/sue445
 * https://speakerdeck.com/sue445
