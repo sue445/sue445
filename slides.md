@@ -1,3 +1,6 @@
+## 2024
+* 2024/05/29 [\#kaigieffect LT大会](https://timeedev.connpass.com/event/318445/) [スライド/2024/05/29/\#kaigieffect LT大会/my new codes\.\.\. \#kaigieffectLT \- esa\-pages\.io](https://esa-pages.io/p/sharing/8985/posts/842/dcff19f54d5e015a48b5-slides.html#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://esa-pages.io/p/sharing/8985/posts/842/dcff19f54d5e015a48b5-slides.html#/)](http://b.hatena.ne.jp/entry/https://esa-pages.io/p/sharing/8985/posts/842/dcff19f54d5e015a48b5-slides.html#/)
+
 ## 2023
 * 2023/11/15 [Google Cloud Next Tokyo ’23](https://cloudonair.withgoogle.com/events/next-tokyo) [GitLab を Google Cloud へ。移行の Tips と振り返り](https://cloudonair.withgoogle.com/events/next-tokyo?talk=d1-inf-03) [:movie_camera:](https://cloudonair.withgoogle.com/events/next-tokyo/watch?talk=d1-inf-03)
 * 2023/09/29 [PIXIV MEETUP 2023](https://conference.pixiv.co.jp/2023/meetup) [pixiv Cloud Journey \#pixivmeetup \- Speaker Deck](https://speakerdeck.com/sue445/pixiv-cloud-journey) [![hatebu](http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/sue445/pixiv-cloud-journey)](http://b.hatena.ne.jp/entry/https://speakerdeck.com/sue445/pixiv-cloud-journey)
