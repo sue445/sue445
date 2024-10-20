@@ -10,7 +10,6 @@
 * https://rubygems.org/profiles/sue445
 * https://hub.docker.com/u/sue445/
 * https://www.credly.com/users/sue445/badges
-* https://www.credential.net/profile/sue445/wallet
 * https://g.dev/sue445
 
 ## :chestnut: Slides
