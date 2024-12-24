@@ -2,6 +2,7 @@
 * https://sue445.hatenablog.com/
 * https://x.com/sue445
 * https://bsky.app/profile/sue445.bsky.social
+* https://mixi.social/@sue445
 * https://github.com/sue445
 * https://gitlab.com/sue445
 * https://speakerdeck.com/sue445
