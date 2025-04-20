@@ -1,3 +1,6 @@
+## 2025
+* 2025/04/18 [RubyKaigi 2025](https://rubykaigi.org/2025/) [Road to Go Gem #rubykaigi - Speaker Deck](https://speakerdeck.com/sue445/road-to-go-gem-number-rubykaigi) [![hatebu](http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/sue445/road-to-go-gem-number-rubykaigi)](http://b.hatena.ne.jp/entry/https://speakerdeck.com/sue445/road-to-go-gem-number-rubykaigi)
+
 ## 2024
 * 2024/09/29 [TokyuRuby会議15](https://tokyurubykaigi.github.io/tokyu15/) [スライド/2024/09/29/TokyuRuby会議15/135日のRubyist \#tqrk15 \- esa\-pages\.io](https://esa-pages.io/p/sharing/8985/posts/887/74fdd1ed44cec5284a40-slides.html#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://esa-pages.io/p/sharing/8985/posts/887/74fdd1ed44cec5284a40-slides.html#/)](http://b.hatena.ne.jp/entry/https://esa-pages.io/p/sharing/8985/posts/887/74fdd1ed44cec5284a40-slides.html#/)
 * 2024/05/29 [\#kaigieffect LT大会](https://timeedev.connpass.com/event/318445/) [スライド/2024/05/29/\#kaigieffect LT大会/my new codes\.\.\. \#kaigieffectLT \- esa\-pages\.io](https://esa-pages.io/p/sharing/8985/posts/842/dcff19f54d5e015a48b5-slides.html#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://esa-pages.io/p/sharing/8985/posts/842/dcff19f54d5e015a48b5-slides.html#/)](http://b.hatena.ne.jp/entry/https://esa-pages.io/p/sharing/8985/posts/842/dcff19f54d5e015a48b5-slides.html#/)
