@@ -1,3 +1,6 @@
+## 2026
+* 2026/07/13 [KaigiEffect Kaigi 2026](https://andpad.connpass.com/event/395551/) [ruby.wasmとPicoRuby.wasmに対応した仮想DOMライブラリを作ってる話 #kaigieffect_kaigi - Speaker Deck](https://speakerdeck.com/sue445/kaigieffect-kaigi-2026) [![hatebu](http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/sue445/kaigieffect-kaigi-2026)](http://b.hatena.ne.jp/entry/https://speakerdeck.com/sue445/kaigieffect-kaigi-2026)
+
 ## 2025
 * 2025/04/18 [RubyKaigi 2025](https://rubykaigi.org/2025/) [Road to Go Gem #rubykaigi - Speaker Deck](https://speakerdeck.com/sue445/road-to-go-gem-number-rubykaigi) [![hatebu](http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/sue445/road-to-go-gem-number-rubykaigi)](http://b.hatena.ne.jp/entry/https://speakerdeck.com/sue445/road-to-go-gem-number-rubykaigi)
 * 2025/05/13 [After RubyKaigi 2025〜ZOZO、ファインディ、ピクシブ〜](https://pixiv.connpass.com/event/352852/) [Kaigi Effect 2025 #rubykaigi2025_after - Speaker Deck](https://speakerdeck.com/sue445/kaigi-effect-2025-number-rubykaigi2025-after) [![hatebu](http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/sue445/kaigi-effect-2025-number-rubykaigi2025-after)](http://b.hatena.ne.jp/entry/https://speakerdeck.com/sue445/kaigi-effect-2025-number-rubykaigi2025-after)
